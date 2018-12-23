@@ -31,7 +31,7 @@ To build the firmware (i.e. for px4_fmu-v4):
 1. Enter the following commands in the bash shell:
    ```
    cd ~/src/Firmware
-   make px4_fmu-v4_default
+   make px4fmu-v4_default
    ```
    On successful completion you'll find the firmware here: `Firmware/build/px4_fmu-v4_default/px4_fmu-v4_default.px4`
    
